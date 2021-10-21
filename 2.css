@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    font-size: 200%;
+    text-align: center;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#wrapper {
+    width: 100%;
+    height: 100%;
+    margin:auto;
+    background: black
+}
+h1 {
+    color: white;
+    font-family: pricedown;
+    src: url(pricedown bl.otf);
+    font-weight: bold;
+    font-size: 100px;
+}
+#good {
+    text-align: center;
+    float: left;
+    position: left;
+    margin-left: 75px;
+}
+#sadge {
+    text-align: center;
+    float: right;
+    position: right;
+    margin-right: 530px;
+}
+#button {
+    position: absolute;
+    left: 10px;
+}

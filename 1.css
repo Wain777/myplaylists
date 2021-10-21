@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+    font-size: 200%;
+    text-align: center;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.wrapper {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background: black
+}
+#autor {
+    position: center;
+    bottom: 0;
+}
+h1 {
+    color: white;
+    font-family: calibri regular;
+    src: url(calibri regular.ttf);
+    font-weight: bold;
+    font-size: 100px;
+}
+h3 {
+    color: white;
+    font-family: calibri regular;
+    src: url(calibri regular.ttf);
+    font-weight: bold;
+    font-size: 60px;
+}
+h5 {
+    color: #303030;
+    font-family: bloodstone;
+    src: url(bloodstone.ttf);
+    font-weight: bold;
+    position:absolute;
+    width:100%;
+    bottom:0;
+    text-align:center;
+}
+#button {
+    position: absolute;
+    left: 10px;
+}
