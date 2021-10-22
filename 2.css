@@ -32,3 +32,11 @@ h1 {
     position: absolute;
     left: 10px;
 }
+#autor {
+    color: #303030;
+    font-family: bloodstone;
+    src: url(bloodstone.ttf);
+    position: absolute;
+    bottom:0;
+    width: 100%;
+}
