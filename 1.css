@@ -12,8 +12,12 @@ body {
     background: black
 }
 #autor {
-    position: center;
-    bottom: 0;
+    color: #303030;
+    font-family: bloodstone;
+    src: url(bloodstone.ttf);
+    position: absolute;
+    bottom:0;
+    width: 100%;
 }
 h1 {
     color: white;
@@ -28,16 +32,6 @@ h3 {
     src: url(calibri regular.ttf);
     font-weight: bold;
     font-size: 60px;
-}
-h5 {
-    color: #303030;
-    font-family: bloodstone;
-    src: url(bloodstone.ttf);
-    font-weight: bold;
-    position:absolute;
-    width:100%;
-    bottom:0;
-    text-align:center;
 }
 #button {
     position: absolute;
