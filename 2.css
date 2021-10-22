@@ -21,14 +21,12 @@ h1 {
 #good {
     text-align: center;
     float: left;
-    position: left;
     margin-left: 75px;
 }
-#sadge {
+#sadge {;
     text-align: center;
     float: right;
-    position: right;
-    margin-right: 530px;
+    margin-right: 130px;
 }
 #button {
     position: absolute;
