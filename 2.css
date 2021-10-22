@@ -40,3 +40,9 @@ h1 {
     bottom:0;
     width: 100%;
 }
+video {
+    float: center;
+    width: 30%;
+    height: 50%;
+    margin-top: 220px;
+}
