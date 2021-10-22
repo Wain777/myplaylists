@@ -19,16 +19,12 @@ h1 {
     font-size: 100px;
 }
 #good {
-    width: 150%;
-    height: 150%;
     text-align: center;
     float: left;
     position: left;
     margin-left: 75px;
 }
 #sadge {
-    width: 150%;
-    height: 150%;
     text-align: center;
     float: right;
     position: right;
