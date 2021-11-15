@@ -30,7 +30,7 @@ h1 {
 }
 #button {
     position: absolute;
-    left: 2%;
+    left: 1%;
 }
 #autor {
     color: #303030;
@@ -46,5 +46,4 @@ video {
     width: 25%;
     height: 50%;
     margin-top: 12%;
-    margin-left: 12%;
 }
