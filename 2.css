@@ -16,7 +16,7 @@ h1 {
     font-family: pricedown;
     src: url(pricedown bl.otf);
     font-weight: bold;
-    font-size: 100px;
+    font-size: 10%;
 }
 #good {
     text-align: center;
