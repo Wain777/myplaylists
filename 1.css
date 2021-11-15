@@ -13,8 +13,6 @@ body {
 }
 #autor {
     color: #303030;
-    font-family: bloodstone;
-    src: url(bloodstone.ttf);
     font-family: cursive;
     position: absolute;
     bottom:0;
@@ -22,15 +20,11 @@ body {
 }
 h1 {
     color: white;
-    font-family: calibri regular;
-    src: url(calibri regular.ttf);
     font-weight: bold;
     font-size: 100px;
 }
 h3 {
     color: white;
-    font-family: calibri regular;
-    src: url(calibri regular.ttf);
     font-weight: bold;
     font-size: 60px;
 }
