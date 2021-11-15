@@ -36,8 +36,7 @@ h1 {
     color: #303030;
     font-family: bloodstone;
     src: url(bloodstone.ttf);
-    position: absolute;
-    bottom:0;
+    bottom: 0;
     text-allign: center;
 }
 video {
