@@ -38,8 +38,7 @@ h1 {
     src: url(bloodstone.ttf);
     position: absolute;
     bottom:0;
-    margin-left: 45%;
-
+    text-allign: center;
 }
 video {
     float: center;
