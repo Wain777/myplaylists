@@ -21,16 +21,16 @@ h1 {
 #good {
     text-align: center;
     float: left;
-    margin-left: 75px;
+    margin-left: 10%;
 }
-#sadge {;
+#sadge {
     text-align: center;
     float: right;
-    margin-right: 130px;
+    margin-right: 10%;
 }
 #button {
     position: absolute;
-    left: 10px;
+    left: 2%;
 }
 #autor {
     color: #303030;
