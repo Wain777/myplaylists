@@ -13,8 +13,6 @@ body {
 }
 h1 {
     color: white;
-    font-family: pricedown;
-    src: url(pricedown bl.otf);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     font-size: 300%;
@@ -35,8 +33,6 @@ h1 {
 }
 #autor {
     color: #303030;
-    font-family: bloodstone;
-    src: url(bloodstone.ttf);
     font-family: cursive;
     position: absolute;
     bottom: 0;
