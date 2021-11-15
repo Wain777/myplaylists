@@ -15,6 +15,7 @@ h1 {
     color: white;
     font-family: pricedown;
     src: url(pricedown bl.otf);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     font-size: 300%;
 }
