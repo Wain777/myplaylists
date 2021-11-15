@@ -30,12 +30,13 @@ h1 {
 }
 #button {
     position: absolute;
-    left: 1%;
+    left: 1.5%;
 }
 #autor {
     color: #303030;
     font-family: bloodstone;
     src: url(bloodstone.ttf);
+    position: absolute;
     bottom: 0;
     text-allign: center;
 }
