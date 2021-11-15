@@ -37,9 +37,9 @@ h1 {
     font-family: bloodstone;
     src: url(bloodstone.ttf);
     position: absolute;
-    bottom: 0%;
-    left: 46%;
+    bottom: 0;
     text-allign: center;
+    width: 100%;
 }
 video {
     float: center;
