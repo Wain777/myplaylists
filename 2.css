@@ -33,9 +33,9 @@ h1 {
 #autor {
     color: #303030;
     font-family: cursive;
-    position: absolute;
+    position: fixed;
     bottom: 0;
-    text-allign: center;
+    text-align: center;
     width: 100%;
 }
 /* video {
