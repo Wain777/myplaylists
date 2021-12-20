@@ -18,12 +18,12 @@ h1 {
 #good {
     text-align: center;
     float: left;
-    margin-left: 8%;
+    margin-left: 10%;
 }
 #sadge {
     text-align: center;
     float: right;
-    margin-right: 8%;
+    margin-right: 10%;
 }
 #button {
     position: absolute;
@@ -50,13 +50,6 @@ h1 {
     h1 {
         font-size: 120%;
     }
-    #good {
-        width: 70%;
-    }
-    #sadge {
-        width: 70%;
-        background-color: black;
-    }
     #autor {
         font-size: 70%;
     }
@@ -64,6 +57,14 @@ h1 {
         width: 70%;
         height: 70%;
         margin-right: 22%;
+    }
+}
+@media screen and (max-height: 586px) {
+    #good {
+        margin-left: 2%;
+    }
+    #sadge {
+        margin-right: 2%;
     }
 }
 /* video {
