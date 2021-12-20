@@ -1,14 +1,13 @@
 body {
     background-color: white;
     font-size: 200%;
-    text-align: center;
-    overflow-x: hidden;
+
 }
 #wrapper {
     width: 100%;
     height: 100%;
-    margin:auto;
-    background: black
+    margin: auto;
+    background-color: black;
 }
 h1 {
     color: white;
@@ -28,7 +27,7 @@ h1 {
 }
 #button {
     position: absolute;
-    left: 1.5%;
+    left: 2%;
 }
 #autor {
     color: #303030;
@@ -37,6 +36,35 @@ h1 {
     bottom: 0;
     text-align: center;
     width: 100%;
+}
+@media screen and (max-width: 414px) {
+    * {
+        margin: auto;
+    }
+    body {
+        background-color: black;
+        font-size: 200%;
+        text-align: center;
+        border: white solid 5px;
+    }
+    h1 {
+        font-size: 120%;
+    }
+    #good {
+        width: 70%;
+    }
+    #sadge {
+        width: 70%;
+        background-color: black;
+    }
+    #autor {
+        font-size: 70%;
+    }
+    #bp {
+        width: 70%;
+        height: 70%;
+        margin-right: 22%;
+    }
 }
 /* video {
     float: center;
